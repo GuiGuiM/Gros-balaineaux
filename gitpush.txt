@@ -1,10 +1,10 @@
-POUR PUSH UN FICHIER OU UN DOSSIER:
+﻿POUR PUSH UN FICHIER OU UN DOSSIER:
 
 git status : pour connaitre l'état du dépôt
 
 Si on à ajouté quelque chose : 
 1) git add "nom fichier"
-2) git commit -m "description du fichier
+2) git commit -m "description du fichier"
 3) git push
 
 ATTENTION :
