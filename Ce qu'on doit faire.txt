@@ -1,0 +1,16 @@
+recuperer les données dans train.csv (fichier aiff et label (1 ou 0)
+
+shuffle pour mélanger les données
+
+split pour diviser les donnée de train en deux
+- 30 % nouveau test (forme : aiff, label)
+- 70 % nouveau train
+
+on refait split pour éviter le overfit
+- 60 % train
+- 20 % validation : permet de valider le train, on essai d'avoir la valeur qui nous correspond
+- 20 % test
+
+Le programme doit renvoyer le pourcentage de baleine qu'il trouve dans les différents données
+
+Il faut avoir un pourcentage de baleine trouvé identique dans les trois cas
